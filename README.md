@@ -10,7 +10,7 @@ https://lucid.app/lucidchart/5aadc1b7-23a3-4ee4-9a74-f983454bd56b/edit?invitatio
 
 liens vers Tableau de bord de gestion de projet Agile:
 
-https://trello.com/b/bRhqwmRK/conduite-de-projet
+[https://trello.com/b/bRhqwmRK/conduite-de-projet](https://trello.com/invite/b/bRhqwmRK/ATTI191d3d43dbdbfc33f23ac058a06ce535DB9E6E53/conduite-de-projet)https://trello.com/invite/b/bRhqwmRK/ATTI191d3d43dbdbfc33f23ac058a06ce535DB9E6E53/conduite-de-projet
 
 Pour les Wireframes doit avoir adobe xd
 
